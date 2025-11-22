@@ -13,3 +13,15 @@
 ## William Gibson
 
 ![william-gibson](william-gibson.jpg)
+
+## Ballerina
+
+![ballerina](ballerina.jpeg)
+
+## Forest 1
+
+![forest-1](forest-1.jpeg)
+
+## Weird Man
+
+![weird-man](weird-man.jpeg)
