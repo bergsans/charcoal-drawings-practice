@@ -14,9 +14,13 @@
 
 ![william-gibson](william-gibson.jpg)
 
-## Ballerina
+## Ballerina I
 
 ![ballerina](ballerina.jpeg)
+
+## Ballerina II
+
+![ballerina](ballerina-2.jpg)
 
 ## Forest 1
 
