@@ -22,6 +22,10 @@
 
 ![ballerina](ballerina-2.jpg)
 
+## Ludqig Wittgenstein
+
+![ballerina](ludwig-wittgenstein.jpg)
+
 ## Forest 1
 
 ![forest-1](forest-1.jpeg)
