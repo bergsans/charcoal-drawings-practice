@@ -1,7 +1,4 @@
 ## Woman I
-![woman-1](woman-1.jpg)
-
-## Woman I
 ![woman-1](woman1.jpg)
 
 ## Harold Bloom
