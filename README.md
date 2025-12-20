@@ -1,3 +1,6 @@
+## Simone de Beauvoir
+![simone-de-beauvoir](simone-de-beauvoir.jpg)
+
 ## Woman I
 ![woman-1](woman1.jpg)
 
