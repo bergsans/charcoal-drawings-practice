@@ -20,6 +20,9 @@
 
 ![william-gibson](william-gibson.jpg)
 
+## Ballerina IV
+![ballerina-4](ballerina-4.jpg)
+
 ## Ballerina III
 ![ballerina-3](ballerina-3.jpg)
 
