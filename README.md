@@ -18,7 +18,7 @@
 
 ## Winston Churchill
 
-![winston-churchill](winston-churcill.jpg)
+![winston-churchill](winston-churchill.jpg)
 
 ## William Gibson
 
