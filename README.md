@@ -16,6 +16,10 @@
 
 ![stephen-fry](stephen-fry.jpg)
 
+## Winston Churchill
+
+![winston-churchill](winston-churcill.jpg)
+
 ## William Gibson
 
 ![william-gibson](william-gibson.jpg)
