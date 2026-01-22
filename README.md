@@ -4,6 +4,9 @@
 ## Woman I
 ![woman-1](woman1.jpg)
 
+## Fencer I
+![fencer-1](fencer-1.jpg)
+
 ## Harold Bloom
 
 ![harold-bloom](harold-bloom.jpg)
