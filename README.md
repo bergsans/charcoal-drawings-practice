@@ -7,6 +7,9 @@
 ## Fencer I
 ![fencer-1](fencer-1.jpg)
 
+## Fencer II
+![fencer-2](fencer-2.jpg)
+
 ## Harold Bloom
 
 ![harold-bloom](harold-bloom.jpg)
